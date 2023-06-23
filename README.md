@@ -35,7 +35,7 @@ python main.py --method=MVSSM --missing_view_num=0 --seed=0 --use_collected_data
 
 ### 3. Results
 <p align="center">
-<img src="figs/Figure3.png" alt="MVSSM" style="zoom: 100%;" />
+<img src="figs/Figure3.PNG" alt="MVSSM" style="zoom: 100%;" />
 </p>
 
 
